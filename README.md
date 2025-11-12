@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Nada Mohammed Elbendary
+<div align="center">
+
+# 👋 Hi, I'm <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Nada Mohammed Elbendary
+
+</div>
 
 <div align="center">
   

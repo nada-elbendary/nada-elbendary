@@ -4,13 +4,18 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;AI+%26+Data+Science+Enthusiast;NLP+%26+Sentiment+Analysis+Specialist;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=nada-elbendary&color=blueviolet&style=flat-square)
+
 </div>
+
 ---
+
 ## 🚀 About Me
 
 🎓 **Machine Learning Engineer** passionate about AI and Data Science  
 💡 Specializing in **NLP**, **Sentiment Analysis**, and **Predictive Modeling**  
 🌱 Currently exploring **Deep Learning** and **Large Language Models**  
+🎯 Seeking opportunities to apply ML/AI solutions to real-world problems  
 💬 Ask me about **Python**, **Machine Learning**, **Flask**, and **Data Analysis**  
 📫 Reach me at: **nadaelbendary3@gmail.com**
 
@@ -45,6 +50,19 @@
 
 ---
 
+## 💻 Skill Levels
+
+```text
+Python                 ████████████████████ 95%
+Machine Learning       ██████████████████░░ 90%
+Data Analysis          ███████████████████░ 92%
+NLP                    █████████████████░░░ 85%
+Deep Learning          ████████████░░░░░░░░ 70%
+Flask/API Development  ████████████████░░░░ 80%
+```
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -63,19 +81,21 @@
 
 ### 🧠 [Amazon Sentiment Analysis - AI Classification System](https://github.com/nada-elbendary/Amazon-Sentiment-Analysis)
 **91.13% Accuracy** | Machine Learning sentiment analysis system for Amazon reviews
-- 🎯 Trained on 500K+ reviews
-- 🚀 Flask API with modern UI
-- 📊 TF-IDF vectorization with NLP preprocessing
-- 💡 **Tech**: Python, Scikit-learn, NLTK, Flask
+- 🎯 Trained on 500K+ reviews using supervised learning
+- 🚀 Flask REST API with responsive modern UI
+- 📊 TF-IDF vectorization with advanced NLP preprocessing
+- 🔧 Handles real-time predictions with optimized performance
+- 💡 **Tech Stack**: Python, Scikit-learn, NLTK, Flask, Pandas, NumPy
 
 ---
 
 ## 🎯 What I'm Currently Working On
 
-- 🔭 Building more ML projects for my portfolio
-- 📚 Learning Deep Learning and Neural Networks
-- 🌐 Exploring Large Language Models (LLMs)
-- 💼 Looking for opportunities in ML/AI roles
+- 🔭 Building advanced ML/DL projects for portfolio expansion
+- 📚 Deep diving into Neural Networks and Computer Vision
+- 🌐 Exploring Large Language Models (LLMs) and Transformer architectures
+- 🤝 Contributing to open-source ML projects
+- 💼 Actively seeking opportunities in ML/AI Engineering roles
 
 ---
 
@@ -97,7 +117,7 @@
 
 ---
 
-## 💭 Quote of the Day
+## 💭 Random Dev Quote
 
 <div align="center">
 
@@ -111,9 +131,9 @@
   
 ### 🌟 Thanks for visiting my profile! 🌟
 
-![Profile Views](https://komarev.com/ghpvc/?username=nada-elbendary&color=blueviolet&style=for-the-badge)
-
 **⭐ Don't forget to star my repositories if you find them useful!**
+
+*"The only way to do great work is to love what you do." - Steve Jobs*
 
 </div>
 

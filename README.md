@@ -1,7 +1,5 @@
 <div align="center">
-
-# 👋 Hi, I'm <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Nada Mohammed Elbendary
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=header&text=Nada%20Mohammed%20Elbendary&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <div align="center">

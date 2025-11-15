@@ -398,9 +398,9 @@ graph LR
 **McKinsey.org - Super Learner Badge 🎖️**
 
 **Key Skills Developed:**
- - 🔹 Critical thinking & structured problem-solving
- - 🔹 Clear and empathetic communication
- - 🔹 Purpose-driven leadership
+ -  Critical thinking & structured problem-solving
+ -  Clear and empathetic communication
+ -  Purpose-driven leadership
 
 </td>
 <td align="center" width="50%">
@@ -409,10 +409,10 @@ graph LR
 **IBM & Cisco Learning**
 
 **Certifications:**
- - 🔹 AI Fundamentals - IBM
- - 🔹 AI Fundamentals - Learn with Cisco
- - 🔹 Machine Learning basics
- - 🔹 AI applications in industry
+ -  AI Fundamentals - IBM
+ -  AI Fundamentals - Learn with Cisco
+ -  Machine Learning basics
+ -  AI applications in industry
 
 </td>
 </tr>

@@ -1,4 +1,26 @@
+## 🎯 Current Goals & Learning Path
+
 <div align="center">
+
+```mermaid
+graph LR
+    A[🎓 Current Skills] --> B[📚 Learning]
+    B --> C[🚀 Future Goals]
+    
+    A --> A1[Machine Learning]
+    A --> A2[NLP]
+    A --> A3[Python/C++/C#]
+    
+    B --> B1[Deep Learning]
+    B --> B2[Computer Vision]
+    B --> B3[LLMs & Transformers]
+    
+    C --> C1[ML Engineer]
+    C --> C2[AI Researcher]
+    C --> C3[Open Source Contributor]
+```
+
+</div><div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=180&section=header&text=Nada%20Mohammed%20Elbendary&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Data%20Scientist&descAlignY=58&descSize=20" width="100%"/>
 </div>
 
@@ -19,24 +41,29 @@
 
 ## 👨‍💻 About Me
 
+<details>
+<summary><b>🔍 Click to learn more about me!</b></summary>
+
+<br>
+
 ```python
 class MachineLearningEngineer:
     def __init__(self):
         self.name = "Nada Mohammed Elbendary"
         self.role = "Machine Learning Engineer"
         self.location = "Egypt 🇪🇬"
-        self.education = "Computer Science Student"
-        self.status = "Final Year | Seeking ML/AI Opportunities"
+        self.education = "Artificial Intelligence Student"
+        self.status = "Third Year | Seeking ML/AI Opportunities"
         self.passion = ["AI", "Machine Learning", "Data Science", "Problem Solving"]
         
     def get_skills(self):
         return {
-            "languages": ["Python", "C++", "JavaScript", "SQL"],
+            "languages": ["Python", "C++", "C#", "JavaScript", "SQL"],
             "ml_frameworks": ["Scikit-learn", "TensorFlow", "PyTorch", "Pandas", "NumPy"],
             "specialization": ["NLP", "Sentiment Analysis", "Predictive Modeling", "Deep Learning"],
             "web_dev": ["Flask", "REST APIs", "ASP.NET", "HTML/CSS"],
             "tools": ["Git", "Jupyter", "VS Code", "Google Colab"],
-            "cloud": ["Oracle Cloud"]
+            "cloud": ["Oracle Cloud Infrastructure"]
         }
     
     def current_focus(self):
@@ -55,15 +82,17 @@ me = MachineLearningEngineer()
 me.say_hi()
 ```
 
+</details>
+
 <div align="center">
 
 ### 🎯 Quick Facts
 
-🎓 **Status:** Computer Science Student | Final Year  
+🎓 **Status:** Artificial Intelligence Student | Third Year  
 🔬 **Currently Exploring:** Deep Learning & Transformer Architectures  
 💼 **Open to:** ML/AI Engineering Internships & Entry-Level Roles  
 🌟 **Passionate About:** Solving Real-World Problems with AI  
-💡 **Fun Fact:** Completed intensive 8-week ML bootcamp!  
+💡 **Fun Fact:** Always learning and building intelligent systems!  
 📫 **Reach Me:** [nadaelbendary3@gmail.com](mailto:nadaelbendary3@gmail.com)
 
 </div>
@@ -137,7 +166,7 @@ me.say_hi()
 | **C++** | Proficient | ![](https://geps.dev/progress/80?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |
 | **Flask/API Development** | Proficient | ![](https://geps.dev/progress/80?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |
 | **JavaScript** | Intermediate | ![](https://geps.dev/progress/75?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |
-| **Deep Learning** | Intermediate | ![](https://geps.dev/progress/70?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |
+| **Deep Learning** | Advanced | ![](https://geps.dev/progress/80?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |
 | **Data Analysis** | Intermediate | ![](https://geps.dev/progress/70?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |
 
 </div>
@@ -222,102 +251,6 @@ me.say_hi()
 
 ## 🎯 Current Goals & Learning Path
 
-<div align="center">
-
-```mermaid
-graph LR
-    A[🎓 Current Skills] --> B[📚 Learning]
-    B --> C[🚀 Future Goals]
-    
-    A --> A1[Machine Learning]
-    A --> A2[NLP]
-    A --> A3[Python/C++]
-    
-    B --> B1[Deep Learning]
-    B --> B2[Computer Vision]
-    B --> B3[LLMs & Transformers]
-    
-    C --> C1[ML Engineer]
-    C --> C2[AI Researcher]
-    C --> C3[Open Source Contributor]
-```
-
-</div>
-
----
-
-## 📚 My Learning Journey - 8-Week ML Intensive Bootcamp
-
-<details>
-<summary><b>🦝 Click to view complete 8-week curriculum!</b></summary>
-
-<br>
-
-### **Week 1 – Python Fundamentals & Data Libraries** 🐍
-- ✅ Python Programming Review
-- ✅ NumPy for Numerical Computing
-- ✅ Pandas for Data Manipulation
-- ✅ Matplotlib for Visualization
-- ✅ Kaggle Platform Introduction
-
-### **Week 2 – Statistics & Basic ML Algorithms** 📊
-- ✅ Descriptive & Inferential Statistics
-- ✅ Probability Theory
-- ✅ K-Nearest Neighbors (KNN)
-- ✅ Linear Regression & Gradient Descent
-- ✅ Linear Algebra for ML
-
-### **Week 3 – EDA & Model Optimization** 🔍
-- ✅ Exploratory Data Analysis (EDA)
-- ✅ Seaborn for Advanced Visualization
-- ✅ Data Preprocessing Techniques
-- ✅ Cross-Validation Methods
-- ✅ Regularization (L1/L2)
-- ✅ Locally Weighted Regression
-
-### **Week 4 – Classification Algorithms** 🎯
-- ✅ Logistic Regression
-- ✅ Naive Bayes & Gaussian Discriminant Analysis
-- ✅ Decision Trees & Ensemble Methods
-- ✅ Random Forests
-- ✅ Support Vector Machines (SVM)
-- ✅ Kernel Methods
-
-### **Week 5 – Neural Networks** 🧠
-- ✅ Perceptron & Linear Models
-- ✅ Neural Network Architecture
-- ✅ Backpropagation Algorithm
-- ✅ Debugging ML Models
-- ✅ Error Analysis
-- ✅ Implementing Neural Networks from Scratch
-
-### **Week 6 – Advanced Techniques** ⚡
-- ✅ Optimization Algorithms (Adam, RMSprop, etc.)
-- ✅ Feature Selection & Engineering
-- ✅ Boosting Algorithms (AdaBoost, XGBoost)
-- ✅ TensorFlow Framework
-
-### **Week 7 – Unsupervised Learning** 🔮
-- ✅ K-Means Clustering
-- ✅ Hierarchical Clustering
-- ✅ DBSCAN (Density-Based Clustering)
-- ✅ Evaluation Metrics for Clustering
-- ✅ Dimensionality Reduction (PCA, t-SNE)
-- ✅ Unsupervised Learning Project
-
-### **Week 8 – Deep Learning Frameworks & Projects** 🚀
-- ✅ PyTorch Framework
-- ✅ TensorFlow vs PyTorch Comparison
-- ✅ Custom Model Architectures
-- ✅ Transfer Learning
-- ✅ Model Optimization Techniques
-- ✅ **Capstone Project:** Customer Churn Prediction
-- ✅ **Capstone Project:** Image Classification
-
-</details>
-
----
-
 **🔭 What I'm Working On:**
 - Building cutting-edge ML/DL projects
 - Contributing to open-source AI initiatives
@@ -374,48 +307,124 @@ graph LR
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
-### 🔶 Oracle Certifications
+### 🤖 Oracle AI Foundations
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
 
-**Database & Technology**
-- Oracle Database Foundations
-- Oracle Cloud Infrastructure
-- Advanced Database Management
+**Artificial Intelligence & Machine Learning**
+
+**💡 Key Competencies:**
+- ✅ AI and ML fundamentals
+- ✅ Deep Learning (CNNs, RNNs, LSTMs)
+- ✅ Large Language Models (LLMs)
+- ✅ Generative AI concepts
+- ✅ Oracle Cloud Infrastructure (OCI)
+- ✅ AI-powered business solutions
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
-### 🌐 Huawei HCIA
+### 🌐 Huawei HCIA-AI
 <img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei"/>
 
-**Networking & ICT**
-- HCIA Certification
-- Huawei Career Conference
-- Network Infrastructure
+**AI & Intelligent Computing**
 
-</td>
-<td align="center" width="34%">
+**💡 Key Competencies:**
+- ✅ AI fundamentals & applications
+- ✅ Machine Learning algorithms
+- ✅ Deep Learning frameworks
+- ✅ Neural network architectures
+- ✅ AI model development
+- ✅ Intelligent systems design
 
-### 💻 Full Stack .NET Developer
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-
-**Egypt Digital Pioneers Initiative**
-- ASP.NET Development
-- Full Stack Web Development
-- Enterprise Applications
+**🎖️ Additional:**
+- Huawei iTB Recruitment Expo (HiRE6 - Oct 2025)
 
 </td>
 </tr>
 </table>
 
-### 🎖️ Additional Achievements
+<table>
+<tr>
+<td align="center">
 
-![Oracle](https://img.shields.io/badge/Oracle%20Certified-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Huawei](https://img.shields.io/badge/HCIA%20Certified-FF0000?style=flat-square&logo=huawei&logoColor=white)
+### 💻 Full Stack .NET Developer
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+
+**Egypt Digital Pioneers Initiative - Rowad Masr**
+
+**💡 Technical Skills & Knowledge:**
+
+**Back-End Development:**
+- ✅ Programming with C#
+- ✅ .NET Core Web API
+- ✅ ASP.NET Core MVC
+- ✅ SQL Server for data-driven solutions
+
+**Front-End Development:**
+- ✅ HTML5, CSS3, JavaScript
+- ✅ Responsive & interactive interfaces
+
+**Software Engineering:**
+- ✅ Functional Documentation
+- ✅ Unit Testing
+- ✅ Docker Containerization
+- ✅ Git & GitHub
+
+**Additional Skills:**
+- ✅ Business English
+- ✅ Coaching & Soft Skills
+- ✅ Freelancing Essentials
+- ✅ Prompt Engineering for AI tools
+
+**📌 Capstone Project:** Integrated full-stack project from concept to deployment
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎖️ Additional Achievements & Certifications
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🏆 McKinsey Forward Program
+**McKinsey.org - Super Learner Badge 🎖️**
+
+**Key Skills Developed:**
+- 🔹 Critical thinking & structured problem-solving
+- 🔹 Clear and empathetic communication
+- 🔹 Purpose-driven leadership
+
+</td>
+<td align="center" width="50%">
+
+### 🤖 AI Fundamentals
+**IBM & Cisco Learning**
+
+**Certifications:**
+- ✅ AI Fundamentals - IBM
+- ✅ AI Fundamentals - Learn with Cisco
+- ✅ Machine Learning basics
+- ✅ AI applications in industry
+
+</td>
+</tr>
+</table>
+
+### 📌 Quick Certifications Summary
+
+![Oracle AI](https://img.shields.io/badge/Oracle%20AI%20Certified-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Huawei HCIA](https://img.shields.io/badge/HCIA--AI%20Certified-FF0000?style=flat-square&logo=huawei&logoColor=white)
 ![.NET](https://img.shields.io/badge/Full%20Stack%20.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Conference](https://img.shields.io/badge/Huawei%20Career%20Conference-FF0000?style=flat-square&logo=huawei&logoColor=white)
+![McKinsey](https://img.shields.io/badge/McKinsey%20Super%20Learner-1F78B4?style=flat-square&logo=google-scholar&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM%20AI%20Certified-054ADA?style=flat-square&logo=ibm&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco%20AI%20Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Huawei Event](https://img.shields.io/badge/Huawei%20HiRE6%20Attendee-FF0000?style=flat-square&logo=huawei&logoColor=white)
 
 ---
 

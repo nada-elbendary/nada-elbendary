@@ -21,7 +21,9 @@
 
 <div align="center">
 
-<img width="200" style="border-radius: 50%; border: 5px solid #9370DB;" src="https://github.com/nada-elbendary/nada-elbendary/raw/main/ecpc%202024.jpg" alt="Nada Mohammed Elbendary"/>
+<a href="https://github.com/nada-elbendary">
+  <img width="150" src="https://github.com/nada-elbendary/nada-elbendary/raw/main/ecpc%202024.jpg" alt="Nada Mohammed Elbendary" style="border-radius: 50%;"/>
+</a>
 
 ### Hi there! 👋 I'm Nada Mohammed Elbendary
 

@@ -21,9 +21,7 @@
 
 <div align="center">
 
-<img width="500" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
-
-</div>
+<img width="200" style="border-radius: 50%; border: 5px solid #9370DB;" src="https://github.com/nada-elbendary/nada-elbendary/raw/main/ecpc%202024.jpg" alt="Nada Mohammed Elbendary"/>
 
 ### Hi there! 👋 I'm Nada Mohammed Elbendary
 
@@ -38,6 +36,8 @@
   🌱 <strong>Learning:</strong> Advanced Deep Learning, Computer Vision & Large Language Models<br>
   📫 <strong>Reach me:</strong> <a href="mailto:nadaelbendary3@gmail.com">nadaelbendary3@gmail.com</a>
 </p>
+
+</div>
 
 ---
 

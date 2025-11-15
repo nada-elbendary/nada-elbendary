@@ -1,105 +1,4 @@
----
-
 <div align="center">
-
-### 🌟 **Thanks for stopping by!** 🌟
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=9370DB&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!;Open+to+collaborations+and+opportunities;Feel+free+to+reach+out+anytime!" alt="Typing SVG" />
-
-<p>
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile"/>
-</p>
-
-### ⭐ **Star my repositories if you find them useful!** ⭐
-
-*"In the world of AI, the only constant is change. Keep learning, keep growing!"*
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-
-</div>
-
----
-
-## 🎯 Current Goals & Learning Path
-
-**🔭 What I'm Working On:**
-- Building cutting-edge ML/DL projects
-- Contributing to open-source AI initiatives
-- Expanding expertise in Neural Networks
-- Exploring Large Language Models & Transformers
-
-**🎯 Career Objectives:**
-- Securing a challenging ML/AI Engineering role
-- Publishing research in AI/ML domain
-- Building impactful AI solutions for real-world problems
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🎓 Current Skills] --> B[📚 Learning]
-    B --> C[🚀 Future Goals]
-    
-    A --> A1[Machine Learning]
-    A --> A2[NLP]
-    A --> A3[Python/C++/C#]
-    
-    B --> B1[Deep Learning]
-    B --> B2[Computer Vision]
-    B --> B3[LLMs & Transformers]
-    
-    C --> C1[ML Engineer]
-    C --> C2[AI Researcher]
-    C --> C3[Open Source Contributor]
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 **Thanks for stopping by!** 🌟
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=9370DB&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!;Open+to+collaborations+and+opportunities;Feel+free+to+reach+out+anytime!" alt="Typing SVG" />
-
-<p>
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile"/>
-</p>
-
-### ⭐ **Star my repositories if you find them useful!** ⭐
-
-*"In the world of AI, the only constant is change. Keep learning, keep growing!"*
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-
-</div>## 🎯 Current Goals & Learning Path
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🎓 Current Skills] --> B[📚 Learning]
-    B --> C[🚀 Future Goals]
-    
-    A --> A1[Machine Learning]
-    A --> A2[NLP]
-    A --> A3[Python/C++/C#]
-    
-    B --> B1[Deep Learning]
-    B --> B2[Computer Vision]
-    B --> B3[LLMs & Transformers]
-    
-    C --> C1[ML Engineer]
-    C --> C2[AI Researcher]
-    C --> C3[Open Source Contributor]
-```
-
-</div><div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=180&section=header&text=Nada%20Mohammed%20Elbendary&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Data%20Scientist&descAlignY=58&descSize=20" width="100%"/>
 </div>
 
@@ -186,6 +85,7 @@ me.say_hi()
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -243,9 +143,9 @@ me.say_hi()
 | **Machine Learning** | Advanced | ![](https://geps.dev/progress/90?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |
 | **NLP & Text Analysis** | Advanced | ![](https://geps.dev/progress/85?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |
 | **C++** | Proficient | ![](https://geps.dev/progress/80?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |
+| **Deep Learning** | Advanced | ![](https://geps.dev/progress/80?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |
 | **Flask/API Development** | Proficient | ![](https://geps.dev/progress/80?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |
 | **JavaScript** | Intermediate | ![](https://geps.dev/progress/75?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |
-| **Deep Learning** | Advanced | ![](https://geps.dev/progress/80?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |
 | **Data Analysis** | Intermediate | ![](https://geps.dev/progress/70?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |
 
 </div>
@@ -329,6 +229,28 @@ me.say_hi()
 ---
 
 ## 🎯 Current Goals & Learning Path
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🎓 Current Skills] --> B[📚 Learning]
+    B --> C[🚀 Future Goals]
+    
+    A --> A1[Machine Learning]
+    A --> A2[NLP]
+    A --> A3[Python/C++/C#]
+    
+    B --> B1[Deep Learning]
+    B --> B2[Computer Vision]
+    B --> B3[LLMs & Transformers]
+    
+    C --> C1[ML Engineer]
+    C --> C2[AI Researcher]
+    C --> C3[Open Source Contributor]
+```
+
+</div>
 
 **🔭 What I'm Working On:**
 - Building cutting-edge ML/DL projects

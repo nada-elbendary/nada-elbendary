@@ -409,10 +409,10 @@ graph LR
 **IBM & Cisco Learning**
 
 **Certifications:**
-- ✅ AI Fundamentals - IBM
-- ✅ AI Fundamentals - Learn with Cisco
-- ✅ Machine Learning basics
-- ✅ AI applications in industry
+- 🔹 AI Fundamentals - IBM
+- 🔹 AI Fundamentals - Learn with Cisco
+- 🔹 Machine Learning basics
+- 🔹 AI applications in industry
 
 </td>
 </tr>

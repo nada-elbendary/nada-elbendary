@@ -19,40 +19,40 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
+<div align="center">
 
-### Hi there! 👋 I'm Nada
+<img width="500" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
 
-🎓 **Third-year Artificial Intelligence Student** passionate about building intelligent systems that solve real-world problems.
+### Hi there! 👋 I'm Nada Mohammed Elbendary
 
-🔬 **Specializing in:** Machine Learning, Natural Language Processing, and Deep Learning
+<table>
+<tr>
+<td align="center">🎓</td>
+<td><b>Education:</b> Third-year Artificial Intelligence Student</td>
+<td align="center">💼</td>
+<td><b>Role:</b> Aspiring Machine Learning Engineer</td>
+</tr>
+<tr>
+<td align="center">🔬</td>
+<td><b>Specialization:</b> ML, NLP & Deep Learning</td>
+<td align="center">🌍</td>
+<td><b>Location:</b> Egypt 🇪🇬</td>
+</tr>
+<tr>
+<td align="center">💡</td>
+<td colspan="3"><b>Mission:</b> Transforming data into actionable insights using cutting-edge AI technologies</td>
+</tr>
+<tr>
+<td align="center">🌱</td>
+<td colspan="3"><b>Currently Learning:</b> Advanced Deep Learning, Computer Vision & Large Language Models</td>
+</tr>
+<tr>
+<td align="center">📫</td>
+<td colspan="3"><b>Contact:</b> <a href="mailto:nadaelbendary3@gmail.com">nadaelbendary3@gmail.com</a></td>
+</tr>
+</table>
 
-💡 **Mission:** Transforming data into actionable insights using cutting-edge AI technologies
-
-🌱 **Currently Learning:** Advanced Deep Learning, Computer Vision & Large Language Models
-
-📫 **Contact:** [nadaelbendary3@gmail.com](mailto:nadaelbendary3@gmail.com)
-
-<br clear="right"/>
-
-```python
-class MachineLearningEngineer:
-    def __init__(self):
-        self.name = "Nada Mohammed Elbendary"
-        self.role = "Machine Learning Engineer"
-        self.location = "Egypt 🇪🇬"
-        self.current_focus = ["Deep Learning", "NLP", "Computer Vision", "LLMs"]
-        
-    def get_tech_stack(self):
-        return {
-            "languages": ["Python", "C++", "C#", "JavaScript", "SQL"],
-            "ml_ai": ["Scikit-learn", "TensorFlow", "PyTorch", "Keras"],
-            "data": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
-            "nlp": ["NLTK", "Transformers"],
-            "web": ["Flask", "ASP.NET", "REST APIs"],
-            "tools": ["Git", "Docker", "Jupyter", "VS Code", "Google Colab"]
-        }
-```
+</div>
 
 ---
 
@@ -194,6 +194,7 @@ class MachineLearningEngineer:
 
 | Area | Focus | Status |
 |------|-------|--------|
+| 🤖 **Machine Learning** | Algorithms, Model Training, Optimization | ![](https://geps.dev/progress/95?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |
 | 🧠 **Deep Learning** | Neural Networks, CNNs, RNNs | ![](https://geps.dev/progress/85?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |
 | 🤖 **NLP & LLMs** | Transformers, BERT, GPT | ![](https://geps.dev/progress/75?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |
 | 👁️ **Computer Vision** | Image Processing, Object Detection | ![](https://geps.dev/progress/70?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |

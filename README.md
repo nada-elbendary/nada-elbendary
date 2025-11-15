@@ -23,36 +23,21 @@
 
 <img width="500" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
 
+</div>
+
 ### Hi there! 👋 I'm Nada Mohammed Elbendary
 
-<table>
-<tr>
-<td align="center">🎓</td>
-<td><b>Education:</b> Third-year Artificial Intelligence Student</td>
-<td align="center">💼</td>
-<td><b>Role:</b> Aspiring Machine Learning Engineer</td>
-</tr>
-<tr>
-<td align="center">🔬</td>
-<td><b>Specialization:</b> ML, NLP & Deep Learning</td>
-<td align="center">🌍</td>
-<td><b>Location:</b> Egypt 🇪🇬</td>
-</tr>
-<tr>
-<td align="center">💡</td>
-<td colspan="3"><b>Mission:</b> Transforming data into actionable insights using cutting-edge AI technologies</td>
-</tr>
-<tr>
-<td align="center">🌱</td>
-<td colspan="3"><b>Currently Learning:</b> Advanced Deep Learning, Computer Vision & Large Language Models</td>
-</tr>
-<tr>
-<td align="center">📫</td>
-<td colspan="3"><b>Contact:</b> <a href="mailto:nadaelbendary3@gmail.com">nadaelbendary3@gmail.com</a></td>
-</tr>
-</table>
+<p align="center">
+  <strong>Third-year Artificial Intelligence Student | Aspiring Machine Learning Engineer</strong>
+</p>
 
-</div>
+<p align="center">
+  🔬 <strong>Specializing in:</strong> Machine Learning, Natural Language Processing & Deep Learning<br>
+  🌍 <strong>Based in:</strong> Egypt 🇪🇬<br>
+  💡 <strong>Mission:</strong> Transforming data into actionable insights using cutting-edge AI<br>
+  🌱 <strong>Learning:</strong> Advanced Deep Learning, Computer Vision & Large Language Models<br>
+  📫 <strong>Reach me:</strong> <a href="mailto:nadaelbendary3@gmail.com">nadaelbendary3@gmail.com</a>
+</p>
 
 ---
 

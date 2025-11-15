@@ -316,12 +316,12 @@ graph LR
 **Artificial Intelligence & Machine Learning**
 
 **💡 Key Competencies:**
-🧠 AI & Machine Learning fundamentals
-🔍 Deep Learning (CNNs, RNNs, LSTMs)
-🤖 Large Language Models (LLMs)
-🎨 Generative AI concepts
-☁️ Oracle Cloud Infrastructure (OCI)
-💼 AI-powered business solutions
+- 🧠 AI & Machine Learning fundamentals
+- 🔍 Deep Learning (CNNs, RNNs, LSTMs)
+- 🤖 Large Language Models (LLMs)
+- 🎨 Generative AI concepts
+- ☁️ Oracle Cloud Infrastructure (OCI)
+- 💼 AI-powered business solutions
 </td>
 <td align="center" width="50%">
 
@@ -331,12 +331,12 @@ graph LR
 **AI & Intelligent Computing**
 
 **💡 Key Competencies:**
-🧠 AI fundamentals & applications
-📊 Machine Learning algorithms
-🧩 Deep Learning frameworks
-🕸️ Neural network architectures
-🛠️ AI model development
-🤖 Intelligent systems design
+- 🧠 AI fundamentals & applications
+- 📊 Machine Learning algorithms
+- 🧩 Deep Learning frameworks
+- 🕸️ Neural network architectures
+- 🛠️ AI model development
+- 🤖 Intelligent systems design
 
 **🎖️ Additional:**
 - Huawei iTB Recruitment Expo (HiRE6 - Oct 2025)
@@ -357,28 +357,28 @@ graph LR
 **💡 Technical Skills & Knowledge:**
 
 **Back-End Development:**
-💻 C# Programming
-🧩 .NET Core Web API
-🏗️ ASP.NET Core MVC
-🗄️ SQL Server (data-driven solutions)
+- 💻 C# Programming
+- 🧩 .NET Core Web API
+- 🏗️ ASP.NET Core MVC
+- 🗄️ SQL Server (data-driven solutions)
 
 **Front-End Development:**
-🌐 HTML5
-🎨 CSS3
-⚡ JavaScript
-📱 Responsive & interactive UI development
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
+- 📱 Responsive & interactive UI development
 
 **Software Engineering:**
-📝 Functional Documentation
-🧪 Unit Testing
-🐳 Docker Containerization
-🔧 Git & GitHub version control
+- 📝 Functional Documentation
+- 🧪 Unit Testing
+- 🐳 Docker Containerization
+- 🔧 Git & GitHub version control
 
 **Additional Skills:**
-🗣️ Business English
-🎯 Coaching & Soft Skills
-💼 Freelancing Essentials
-⚙️ Prompt Engineering for AI tools
+- 🗣️ Business English
+- 🎯 Coaching & Soft Skills
+- 💼 Freelancing Essentials
+- ⚙️ Prompt Engineering for AI tools
 
 **📌 Capstone Project:** Integrated full-stack project from concept to deployment
 

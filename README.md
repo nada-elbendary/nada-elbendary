@@ -1,4 +1,83 @@
+---
+
+<div align="center">
+
+### 🌟 **Thanks for stopping by!** 🌟
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=9370DB&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!;Open+to+collaborations+and+opportunities;Feel+free+to+reach+out+anytime!" alt="Typing SVG" />
+
+<p>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
+  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile"/>
+</p>
+
+### ⭐ **Star my repositories if you find them useful!** ⭐
+
+*"In the world of AI, the only constant is change. Keep learning, keep growing!"*
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+
+</div>
+
+---
+
 ## 🎯 Current Goals & Learning Path
+
+**🔭 What I'm Working On:**
+- Building cutting-edge ML/DL projects
+- Contributing to open-source AI initiatives
+- Expanding expertise in Neural Networks
+- Exploring Large Language Models & Transformers
+
+**🎯 Career Objectives:**
+- Securing a challenging ML/AI Engineering role
+- Publishing research in AI/ML domain
+- Building impactful AI solutions for real-world problems
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🎓 Current Skills] --> B[📚 Learning]
+    B --> C[🚀 Future Goals]
+    
+    A --> A1[Machine Learning]
+    A --> A2[NLP]
+    A --> A3[Python/C++/C#]
+    
+    B --> B1[Deep Learning]
+    B --> B2[Computer Vision]
+    B --> B3[LLMs & Transformers]
+    
+    C --> C1[ML Engineer]
+    C --> C2[AI Researcher]
+    C --> C3[Open Source Contributor]
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 **Thanks for stopping by!** 🌟
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=9370DB&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!;Open+to+collaborations+and+opportunities;Feel+free+to+reach+out+anytime!" alt="Typing SVG" />
+
+<p>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
+  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile"/>
+</p>
+
+### ⭐ **Star my repositories if you find them useful!** ⭐
+
+*"In the world of AI, the only constant is change. Keep learning, keep growing!"*
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+
+</div>## 🎯 Current Goals & Learning Path
 
 <div align="center">
 
@@ -416,15 +495,20 @@ me.say_hi()
 </tr>
 </table>
 
-### 📌 Quick Certifications Summary
+### 📌 Certifications Overview
 
-![Oracle AI](https://img.shields.io/badge/Oracle%20AI%20Certified-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Huawei HCIA](https://img.shields.io/badge/HCIA--AI%20Certified-FF0000?style=flat-square&logo=huawei&logoColor=white)
-![.NET](https://img.shields.io/badge/Full%20Stack%20.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![McKinsey](https://img.shields.io/badge/McKinsey%20Super%20Learner-1F78B4?style=flat-square&logo=google-scholar&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM%20AI%20Certified-054ADA?style=flat-square&logo=ibm&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco%20AI%20Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Huawei Event](https://img.shields.io/badge/Huawei%20HiRE6%20Attendee-FF0000?style=flat-square&logo=huawei&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle%20AI-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle AI"/>
+  <img src="https://img.shields.io/badge/HCIA--AI-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei HCIA"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/McKinsey%20Super%20Learner-1F78B4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="McKinsey"/>
+  <img src="https://img.shields.io/badge/IBM%20AI-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/>
+  <img src="https://img.shields.io/badge/Cisco%20AI-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+  <img src="https://img.shields.io/badge/Huawei%20HiRE6-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei Event"/>
+</p>
 
 ---
 

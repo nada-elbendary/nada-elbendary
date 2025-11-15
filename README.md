@@ -282,6 +282,9 @@
 <a href="mailto:nadaelbendary3@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&height=40" alt="Gmail"/>
 </a>
+<a href="https://nada-elbendary.github.io/#projects">
+  <img src="https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=google-chrome&logoColor=white&height=40" alt="Portfolio"/>
+</a>
 <a href="https://github.com/nada-elbendary">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&height=40" alt="GitHub"/>
 </a>

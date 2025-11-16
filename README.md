@@ -288,6 +288,18 @@
 <a href="https://github.com/nada-elbendary">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&height=40" alt="GitHub"/>
 </a>
+<a href="https://www.kaggle.com/nadamohammedahmed">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&height=40" alt="Kaggle"/>
+</a>
+<a href="https://stackoverflow.com/users/31885940/nada-elbendary">
+  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white&height=40" alt="Stack Overflow"/>
+</a>
+<a href="https://medium.com/@nadaelbendary3">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&height=40" alt="Medium"/>
+</a>
+<a href="https://x.com/N4daMohammed">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&height=40" alt="X"/>
+</a>
 
 ### 💼 Open to Opportunities
 

@@ -4,8 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+%F0%9F%A4%96;AI+%26+Data+Science+Enthusiast+%F0%9F%93%8A;NLP+%26+Sentiment+Analysis+Specialist+%F0%9F%92%AC;Building+Intelligent+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=700&lines=Welcome+to+My+AI+Journey+%F0%9F%9A%80;South+Valley+University+%7C+AI+Student+%F0%9F%8E%93;Passionate+About+Innovation+%F0%9F%92%A1;Let's+Build+The+Future+Together+%F0%9F%A4%9D)](https://git.io/typing-svg)
 <p>
   <img src="https://komarev.com/ghpvc/?username=nada-elbendary&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/nada-elbendary?style=for-the-badge&color=9370DB&labelColor=0D1117" alt="Followers"/>

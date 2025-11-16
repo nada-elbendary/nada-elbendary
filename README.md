@@ -64,18 +64,18 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
+### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> AI/ML Technologies
+### 🤖 AI/ML Technologies
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -83,7 +83,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"> Tools & Platforms
+### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -94,7 +94,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Featured Project
+## 🌟 Featured Project
 
 <div align="center">
 
@@ -111,7 +111,7 @@
 <tr>
 <td width="50%">
 
-#### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> Project Highlights
+#### 🎯 Project Highlights
 - ✅ **91.13% Classification Accuracy** on test data
 - 📊 Trained on **500,000+ Amazon reviews**
 - ⚡ **Real-time sentiment predictions** via Flask API
@@ -122,7 +122,7 @@
 </td>
 <td width="50%">
 
-#### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="25"> Technologies Used
+#### 🛠️ Technologies Used
 **ML/NLP:** Scikit-learn, NLTK, TF-IDF
 
 **Backend:** Python, Flask, Pandas, NumPy
@@ -131,7 +131,7 @@
 
 **Architecture:** RESTful API, Production-ready deployment
 
-#### <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="25"> Impact
+#### 📊 Impact
 Enables businesses to understand customer sentiment at scale and make data-driven decisions based on feedback analysis.
 
 </td>
@@ -140,7 +140,7 @@ Enables businesses to understand customer sentiment at scale and make data-drive
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -153,7 +153,7 @@ Enables businesses to understand customer sentiment at scale and make data-drive
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40"> Certifications
+## 🏅 Certifications
 
 <div align="center">
 
@@ -169,7 +169,7 @@ Enables businesses to understand customer sentiment at scale and make data-drive
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40"> What I'm Learning
+## 🎯 What I'm Learning
 
 <div align="center">
 
@@ -185,7 +185,7 @@ Enables businesses to understand customer sentiment at scale and make data-drive
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"> Open to Opportunities
+## 💼 Open to Opportunities
 
 <div align="center">
 
@@ -197,7 +197,7 @@ Enables businesses to understand customer sentiment at scale and make data-drive
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30"> Let's Connect!
+### 📫 Let's Connect!
 
 <a href="https://www.linkedin.com/in/nada-mohammed5">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>

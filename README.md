@@ -17,47 +17,32 @@
 
 ---
 
-## 👨‍💻 About Me
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Nada;Machine+Learning+Engineer+🤖;Building+Intelligent+Systems+🚀" alt="Typing SVG" />
-</h1>
+### 📫 Reach Out To Me
 
-<p align="center">
-  <strong>🎓 Third-Year AI Student | 💼 ML Engineer | 🌍 Egypt</strong>
-</p>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 💡 **Core Expertise**
-
-🤖 Machine Learning & AI  
-🧠 Natural Language Processing  
-🔬 Deep Learning & Neural Networks  
-📊 Data Science & Analytics  
-
-</td>
-<td align="center" width="50%">
-
-### 🚀 **Current Focus**
-
-🔭 Building AI-powered Solutions  
-📚 Exploring LLMs & Transformers  
-👁️ Computer Vision Projects  
-💡 Open Source Contributions  
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-  <em>"Transforming data into actionable insights through cutting-edge AI technologies"</em>
-</p>
+<a href="https://www.linkedin.com/in/nada-mohammed5">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&height=40" alt="LinkedIn"/>
+</a>
+<a href="mailto:nadaelbendary3@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&height=40" alt="Gmail"/>
+</a>
+<a href="https://nada-elbendary.github.io/#projects">
+  <img src="https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=google-chrome&logoColor=white&height=40" alt="Portfolio"/>
+</a>
+<a href="https://github.com/nada-elbendary">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&height=40" alt="GitHub"/>
+</a>
+<a href="https://www.kaggle.com/nadamohammedahmed">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&height=40" alt="Kaggle"/>
+</a>
+<a href="https://stackoverflow.com/users/31885940/nada-elbendary">
+  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white&height=40" alt="Stack Overflow"/>
+</a>
+<a href="https://medium.com/@nadaelbendary3">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&height=40" alt="Medium"/>
+</a>
+<a href="https://x.com/N4daMohammed">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&height=40" alt="X"/>
+</a>
 ---
 
 ## 🛠️ Technology Stack

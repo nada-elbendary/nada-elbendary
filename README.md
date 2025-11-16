@@ -4,350 +4,242 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=FF6B6BF7&background=FFFFFF00&multiline=false&center=true&vCenter=true&random=false&width=800&height=80&lines=%F0%9F%8C%9F+Welcome+to+My+AI+Journey;%F0%9F%8E%93+South+Valley+University+%7C+AI+Student;%F0%9F%92%A1+Passionate+About+Innovation;%F0%9F%A4%9D+Let's+Build+The+Future+Together)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=800&lines=Welcome+to+My+AI+Journey+%F0%9F%8C%9F;Building+Intelligent+Solutions+%F0%9F%A4%96;Turning+Data+into+Insights+%F0%9F%93%8A;Open+to+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=nada-elbendary&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/nada-elbendary?style=for-the-badge&color=9370DB&labelColor=0D1117" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-9370DB?style=for-the-badge&labelColor=0D1117" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge&labelColor=0D1117" alt="Status"/>
+  <img src="https://komarev.com/ghpvc/?username=nada-elbendary&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/nada-elbendary?style=flat-square&color=9370DB" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-9370DB?style=flat-square" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Hire-success?style=flat-square" alt="Status"/>
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+### 🎓 Background
+**AI Student** at Faculty of Artificial Intelligence, South Valley University  
+**Third Year** | Aspiring Machine Learning Engineer
+
+### 💡 What I Do
+Building cutting-edge ML models and AI-powered applications with focus on:
+- 🤖 **Machine Learning & Deep Learning**
+- 🗣️ **Natural Language Processing (NLP)**
+- 👁️ **Computer Vision**
+- ☁️ **MLOps & Model Deployment**
+
+### 🎯 Current Focus
+- 🔬 Developing end-to-end ML pipelines
+- 📊 Competing in Kaggle competitions
+- 🌐 Contributing to open-source AI projects
+- 🚀 Building production-ready AI solutions
+
+</td>
+<td width="40%">
 
 <div align="center">
-
-<a href="https://github.com/nada-elbendary">
-  <img width="150" src="https://github.com/nada-elbendary/nada-elbendary/raw/main/ecpc%202024.jpg" alt="Nada Mohammed Elbendary" style="border-radius: 50%;"/>
-</a>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3500&pause=800&color=9370DBF0&background=FFFFFF00&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=%E2%9A%A1+Transforming+Data+into+Intelligence;%F0%9F%A4%96+Building+AI-Powered+Solutions;%F0%9F%91%81%EF%B8%8F+NLP+%26+Computer+Vision+Specialist;%F0%9F%9A%80+Turning+Ideas+into+Impact" alt="Typing SVG" />
-</h1>
-
+  <img src="https://github.com/nada-elbendary/nada-elbendary/raw/main/ecpc%202024.jpg" alt="Nada Mohammed" width="200" style="border-radius: 50%;"/>
+  
+  <br><br>
+  
+  **🔗 Quick Links**
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-mohammed5)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nada-elbendary.github.io/#projects)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nadamohammedahmed)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadaelbendary3@gmail.com)
+  
 </div>
 
-<br>
-
-> 🎓 **Studying at** `Faculty of Artificial Intelligence` at **South Valley University**
-
-> 👩‍💻 **Third-Year AI Student** | Aspiring `Machine Learning Engineer`
-
-> 💡 **Focused on building** cutting-edge ML models and AI-powered applications, with deep interest in integrating **`NLP`** and **`Computer Vision`** solutions
-
-> 🧠 **Strong foundational skills in** `Machine Learning Algorithms`, `Deep Learning`, and `Natural Language Processing`. I maintain my skills as a **competitive learner** through continuous hands-on projects
-
-> 🏆 **Active involvement in** AI competitions, research projects, and open-source contributions including **`Kaggle`** competitions and **`GitHub`** collaborations
-
-> 🤖 **Practical experience in** building end-to-end ML pipelines from data preprocessing to model deployment using **`Flask`**, **`Docker`**, and **`Cloud`** platforms
-
-> ♟️ **Passionate about** continuous learning and solving real-world problems through **`AI Innovation`** & **`Data-Driven Solutions`**
-
-<br>
-
-<div align="center">
- 🎯 Current Focus: Deep Learning • Large Language Models • Computer Vision • MLOps
-```
-
-<p>
-  <img src="https://img.shields.io/badge/Specialization-Machine_Learning-9370DB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-NLP_&_Computer_Vision-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-success?style=flat-square&logo=handshake&logoColor=white"/>
-</p>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages & Core Skills
-
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🤖 Machine Learning & AI
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### AI/ML Technologies
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌐 Web & API Development
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🔧 Tools & Technologies
-
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🌟 Featured Project
+
+<div align="center">
+
+### 🧠 Amazon Sentiment Analysis System
+**Advanced ML System for Real-time Customer Review Classification**
+
+[![View Repository](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nada-elbendary/Amazon-Sentiment-Analysis)
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🎯 Project Highlights
+- **91.13% Classification Accuracy**
+- Trained on **500,000+ Amazon reviews**
+- Real-time sentiment predictions
+- Production-ready Flask API
+- Modern responsive web interface
+- Advanced NLP preprocessing pipeline
+
+</td>
+<td width="50%">
+
+#### 🛠️ Technologies Used
+- **ML/NLP:** Scikit-learn, NLTK, TF-IDF
+- **Backend:** Python, Flask, Pandas
+- **Frontend:** HTML5, CSS3, Bootstrap
+- **Deployment:** RESTful API Architecture
+
+#### 📊 Impact
+Enables businesses to understand customer sentiment at scale and make data-driven decisions based on feedback analysis.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nada-elbendary&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9370DB&icon_color=9370DB&text_color=FFFFFF&ring_color=9370DB&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nada-elbendary&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9370DB&text_color=FFFFFF&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nada-elbendary&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9370DB&icon_color=9370DB&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nada-elbendary&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9370DB&text_color=FFFFFF&langs_count=6"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nada-elbendary&theme=radical&hide_border=true&background=0D1117&stroke=9370DB&ring=9370DB&fire=FF6B6B&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=9370DB&dates=FFFFFF" alt="GitHub Streak"/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nada-elbendary&theme=react-dark&hide_border=true&bg_color=0D1117&color=9370DB&line=9370DB&point=FFFFFF&area=true&area_color=9370DB)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nada-elbendary&theme=radical&hide_border=true&background=0D1117&stroke=9370DB&ring=9370DB&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🏅 Certifications
 
 <div align="center">
 
-### 🌟 Highlighted Work
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Amazon Sentiment Analysis System
-**[View Repository →](https://github.com/nada-elbendary/Amazon-Sentiment-Analysis)**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Accuracy-91.13%25-success?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dataset-500K%2B%20Reviews-blueviolet?style=for-the-badge"/>
-</p>
-
-**Advanced ML System for Real-time Sentiment Classification**
-
-#### ✨ Key Features:
-- 🎯 **91.13% accuracy** on classification
-- 📊 Trained on **500,000+ Amazon reviews**
-- 🚀 Real-time predictions via **Flask API**
-- 💻 Modern responsive web interface
-- 🔧 Advanced NLP preprocessing & TF-IDF vectorization
-
-#### 🛠️ Tech Stack:
-`Python` `Scikit-learn` `NLTK` `Flask` `Pandas` `NumPy` `HTML/CSS`
-
-#### 📈 Impact:
-- Processes customer feedback at scale
-- Helps businesses understand customer sentiment
-- Production-ready deployment architecture
-
-</td>
-<td width="50%" valign="top">
-
-### 🔮 More Exciting Projects!
-
-#### 🚀 Currently Building:
-
-- **🤖 Computer Vision Applications**
-  - Image classification & object detection
-  - Real-time video analysis systems
-
-- **📝 Advanced NLP Systems**
-  - Text generation & summarization
-  - Multi-language support
-
-- **🧪 Deep Learning Experiments**
-  - Neural architecture research
-  - Transfer learning implementations
-
-- **📊 Data Analytics Dashboards**
-  - Interactive visualization tools
-  - Business intelligence solutions
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-*🔗 Check out my repositories for more projects!*
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Current Learning Journey
-
-<div align="center">
-
-### 🔭 What I'm Exploring
-
-| Area | Focus | Status |
-|------|-------|--------|
-| 🤖 **Machine Learning** | Algorithms, Model Training, Optimization | ![](https://geps.dev/progress/95?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |
-| 🧠 **Deep Learning** | Neural Networks, CNNs, RNNs | ![](https://geps.dev/progress/85?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |
-| 🤖 **NLP & LLMs** | Transformers, BERT, GPT | ![](https://geps.dev/progress/75?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |
-| 👁️ **Computer Vision** | Image Processing, Object Detection | ![](https://geps.dev/progress/70?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |
-| ☁️ **MLOps** | Model Deployment, Docker, Cloud | ![](https://geps.dev/progress/65?dangerColor=9370DB&warningColor=9370DB&successColor=9370DB) |
-
-### 💡 Career Objectives
-
-🎯 **Short-term:** Secure ML/AI Engineering internship or entry-level position  
-📚 **Mid-term:** Contribute to open-source AI projects & publish research  
-🚀 **Long-term:** Become a lead AI engineer building impactful solutions  
+| Certification | Organization | Key Skills |
+|--------------|--------------|------------|
+| 🎓 **Oracle AI Foundations** | Oracle | AI/ML Fundamentals, Deep Learning, LLMs, Generative AI |
+| 🏆 **HCIA-AI Certified** | Huawei | ML Algorithms, Neural Networks, Intelligent Systems |
+| 💻 **Full Stack .NET Developer** | Egypt Digital Pioneers | C#, ASP.NET, Web APIs, Docker |
+| 📚 **AI Fundamentals** | IBM | Machine Learning, Data Science |
+| 🎯 **McKinsey Forward Program** | McKinsey | Strategic Thinking, Problem Solving |
 
 </div>
 
 ---
 
-## 🏅 Certifications & Achievements
+## 🎯 What I'm Learning
 
 <div align="center">
 
-### 📜 Professional Certifications
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="40"/>
-
-### Oracle AI Foundations
-
-**Key Skills:**
-- AI/ML Fundamentals
-- Deep Learning (CNN, RNN, LSTM)
-- Large Language Models
-- Generative AI
-- Oracle Cloud Infrastructure
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white" height="40"/>
-
-### HCIA-AI Certification
-
-**Key Skills:**
-- AI Fundamentals
-- ML Algorithms
-- Deep Learning Frameworks
-- Neural Networks
-- Intelligent Systems Design
-
-*+ HiRE6 Recruitment Expo 2025*
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40"/>
-
-### Full Stack .NET Developer
-
-**Egypt Digital Pioneers Initiative**
-
-**Key Skills:**
-- C# & .NET Core
-- ASP.NET MVC & Web API
-- SQL Server
-- HTML/CSS/JavaScript
-- Docker & Unit Testing
-
-</td>
-</tr>
-</table>
-
-### 🎖️ Additional Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/McKinsey%20Forward-Super%20Learner-1F78B4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IBM-AI%20Fundamentals-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco-AI%20Learning-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-</p>
-
-### 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=nada-elbendary&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+```mermaid
+mindmap
+  root((AI/ML Journey))
+    Machine Learning
+      Supervised Learning
+      Unsupervised Learning
+      Model Optimization
+    Deep Learning
+      Neural Networks
+      CNNs
+      RNNs & LSTMs
+    NLP
+      Transformers
+      BERT & GPT
+      Text Classification
+    Computer Vision
+      Image Processing
+      Object Detection
+      Image Segmentation
+    MLOps
+      Model Deployment
+      Docker & Cloud
+      CI/CD Pipelines
+```
 
 </div>
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+## 💼 Open to Opportunities
 
 <div align="center">
 
-### 📫 Reach Out To Me
+### 🚀 Looking For
+
+```
+🎯 ML/AI Engineering Internships
+🔬 Research Collaborations
+📊 Data Science Projects
+💡 Open Source Contributions
+🤝 Freelance AI Projects
+```
+
+### 📫 Let's Connect!
 
 <a href="https://www.linkedin.com/in/nada-mohammed5">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&height=40" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:nadaelbendary3@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&height=40" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://nada-elbendary.github.io/#projects">
-  <img src="https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=google-chrome&logoColor=white&height=40" alt="Portfolio"/>
-</a>
-<a href="https://github.com/nada-elbendary">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&height=40" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Portfolio-View_My_Work-9370DB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 <a href="https://www.kaggle.com/nadamohammedahmed">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&height=40" alt="Kaggle"/>
+  <img src="https://img.shields.io/badge/Kaggle-Follow_Me-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
-<a href="https://stackoverflow.com/users/31885940/nada-elbendary">
-  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white&height=40" alt="Stack Overflow"/>
-</a>
-<a href="https://medium.com/@nadaelbendary3">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&height=40" alt="Medium"/>
-</a>
-<a href="https://x.com/N4daMohammed">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&height=40" alt="X"/>
-</a>
-
-### 💼 Open to Opportunities
-
-🤖 **ML/AI Engineering Roles** | 🧠 **Research Collaborations** | 📊 **Data Science Projects** | 💡 **Open Source Contributions**
 
 ---
 
-### 💭 Dev Quote of the Day
+### ⭐ If you find my work interesting, consider giving it a star!
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs)
-
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Open+to+collaborations+and+opportunities!+%F0%9F%A4%9D;Feel+free+to+reach+out+anytime!+%F0%9F%93%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let's+build+something+amazing+%F0%9F%9A%80;Open+to+collaborations+%7C+Always+learning+%7C+Passionate+about+AI" alt="Typing SVG" />
 
 <p>
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="30"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" height="30"/>
 </p>
-
-### ⭐ If you find my work useful, consider giving it a star! ⭐
-
-*"In AI and Machine Learning, the only constant is innovation. Keep learning, keep building, keep growing!"* 🌟
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%"/>
 </div>

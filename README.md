@@ -25,21 +25,42 @@
   <img width="150" src="https://github.com/nada-elbendary/nada-elbendary/raw/main/ecpc%202024.jpg" alt="Nada Mohammed Elbendary" style="border-radius: 50%;"/>
 </a>
 
-### Hi there! 👋 I'm Nada Mohammed Elbendary
+### 👋 Hi there! I'm **Nada Mohammed Elbendary**
 
 <p align="center">
-  <strong>Third-year Artificial Intelligence Student | Aspiring Machine Learning Engineer</strong>
+  <strong>🎓 Third-Year AI Student @ [University Name] | 🚀 Machine Learning Engineer</strong>
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🎯 **Expertise**
+💻 Machine Learning & AI<br>
+🧠 Natural Language Processing<br>
+🤖 Deep Learning & Neural Networks<br>
+📊 Data Science & Analytics
+
+</td>
+<td align="center" width="50%">
+
+### 🌟 **Currently**
+🔭 Building AI-powered solutions<br>
+📚 Exploring LLMs & Computer Vision<br>
+💡 Contributing to open-source<br>
+🌍 Based in Egypt 🇪🇬
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <em>"Transforming data into actionable insights through cutting-edge AI technologies"</em>
 </p>
 
 <p align="center">
-  🔬 <strong>Specializing in:</strong> Machine Learning, Natural Language Processing & Deep Learning<br>
-  🌍 <strong>Based in:</strong> Egypt 🇪🇬<br>
-  💡 <strong>Mission:</strong> Transforming data into actionable insights using cutting-edge AI<br>
-  🌱 <strong>Learning:</strong> Advanced Deep Learning, Computer Vision & Large Language Models<br>
-  📫 <strong>Reach me:</strong> <a href="mailto:nadaelbendary3@gmail.com">nadaelbendary3@gmail.com</a>
+  📧 <strong>Let's Connect:</strong> <a href="mailto:nadaelbendary3@gmail.com">nadaelbendary3@gmail.com</a>
 </p>
-
-</div>
 
 ---
 

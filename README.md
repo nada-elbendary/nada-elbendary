@@ -24,21 +24,22 @@
 <td width="60%">
 
 ### 🎓 Background
-**AI Student** at Faculty of Artificial Intelligence, South Valley University  
-**Third Year** | Aspiring Machine Learning Engineer
+> **AI Student** at Faculty of Artificial Intelligence, South Valley University  
+> **Third Year** | Aspiring Machine Learning Engineer
 
 ### 💡 What I Do
-Building cutting-edge ML models and AI-powered applications with focus on:
+> Building cutting-edge ML models and AI-powered applications with focus on:
+
 - 🤖 **Machine Learning & Deep Learning**
 - 🗣️ **Natural Language Processing (NLP)**
 - 👁️ **Computer Vision**
 - ☁️ **MLOps & Model Deployment**
 
 ### 🎯 Current Focus
-- 🔬 Developing end-to-end ML pipelines
-- 📊 Competing in Kaggle competitions
-- 🌐 Contributing to open-source AI projects
-- 🚀 Building production-ready AI solutions
+> 🔬 Developing **end-to-end ML pipelines**  
+> 📊 Competing in **Kaggle competitions**  
+> 🌐 Contributing to **open-source AI projects**  
+> 🚀 Building **production-ready AI solutions**
 
 </td>
 <td width="40%">

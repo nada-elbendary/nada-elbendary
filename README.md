@@ -26,7 +26,7 @@
 </a>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Nada;Machine+Learning+Engineer+🤖;Building+Intelligent+Systems+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=700&lines=Transforming+Data+into+Intelligence+🧠;Building+AI-Powered+Solutions+🤖;NLP+%26+Computer+Vision+Specialist+👁️;Turning+Ideas+into+Impact+🚀" alt="Typing SVG" />
 </h1>
 
 </div>

@@ -4,7 +4,8 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=700&lines=Welcome+to+My+AI+Journey+%F0%9F%9A%80;South+Valley+University+%7C+AI+Student+%F0%9F%8E%93;Passionate+About+Innovation+%F0%9F%92%A1;Let's+Build+The+Future+Together+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=FF6B6BF7&background=FFFFFF00&multiline=false&center=true&vCenter=true&random=false&width=800&height=80&lines=%F0%9F%8C%9F+Welcome+to+My+AI+Journey;%F0%9F%8E%93+South+Valley+University+%7C+AI+Student;%F0%9F%92%A1+Passionate+About+Innovation;%F0%9F%A4%9D+Let's+Build+The+Future+Together)](https://git.io/typing-svg)
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=nada-elbendary&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/nada-elbendary?style=for-the-badge&color=9370DB&labelColor=0D1117" alt="Followers"/>
@@ -25,7 +26,7 @@
 </a>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=700&lines=Transforming+Data+into+Intelligence+🧠;Building+AI-Powered+Solutions+🤖;NLP+%26+Computer+Vision+Specialist+👁️;Turning+Ideas+into+Impact+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3500&pause=800&color=9370DBF0&background=FFFFFF00&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=%E2%9A%A1+Transforming+Data+into+Intelligence;%F0%9F%A4%96+Building+AI-Powered+Solutions;%F0%9F%91%81%EF%B8%8F+NLP+%26+Computer+Vision+Specialist;%F0%9F%9A%80+Turning+Ideas+into+Impact" alt="Typing SVG" />
 </h1>
 
 </div>
@@ -60,6 +61,7 @@
 </p>
 
 </div>
+
 ---
 
 ## 🛠️ Technology Stack

@@ -50,8 +50,7 @@
 <br>
 
 <div align="center">
-```diff
-+ 🎯 Current Focus: Deep Learning • Large Language Models • Computer Vision • MLOps
+ 🎯 Current Focus: Deep Learning • Large Language Models • Computer Vision • MLOps
 ```
 
 <p>

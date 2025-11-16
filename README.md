@@ -19,69 +19,45 @@
 
 ## 👨‍💻 About Me
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Nada;Machine+Learning+Engineer+%F0%9F%A4%96;AI+%26+Data+Science+Enthusiast+%F0%9F%93%8A;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Nada;Machine+Learning+Engineer+🤖;Building+Intelligent+Systems+🚀" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_Student-Third_Year-9370DB?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Role-ML_Engineer-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Location-Egypt_🇪🇬-00C853?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-success?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <strong>🎓 Third-Year AI Student | 💼 ML Engineer | 🌍 Egypt</strong>
 </p>
 
-<div align="center">
-```javascript
-const nada = {
-    role: "Machine Learning Engineer",
-    location: "Egypt 🇪🇬",
-    expertise: ["Machine Learning", "NLP", "Deep Learning", "Data Science"],
-    currentFocus: ["Computer Vision", "Large Language Models", "MLOps"],
-    mission: "Transforming data into actionable insights with AI 🚀",
-    availability: "Open for opportunities ✨"
-};
-```
-
-</div>
+<br>
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/💡_CORE_EXPERTISE-9370DB?style=for-the-badge"/>
 
-🤖 **Machine Learning & AI**  
-🧠 **Natural Language Processing**  
-🔬 **Deep Learning & Neural Networks**  
-📊 **Data Science & Analytics**  
-⚡ **Model Deployment & MLOps**
+### 💡 **Core Expertise**
+
+🤖 Machine Learning & AI  
+🧠 Natural Language Processing  
+🔬 Deep Learning & Neural Networks  
+📊 Data Science & Analytics  
 
 </td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/🚀_CURRENT_FOCUS-FF6B6B?style=for-the-badge"/>
 
-🔭 **Building AI-powered Solutions**  
-📚 **Exploring LLMs & Transformers**  
-👁️ **Computer Vision Projects**  
-💡 **Open Source Contributions**  
-🌟 **Research & Innovation**
+### 🚀 **Current Focus**
+
+🔭 Building AI-powered Solutions  
+📚 Exploring LLMs & Transformers  
+👁️ Computer Vision Projects  
+💡 Open Source Contributions  
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=100&section=footer&animation=twinkling" width="100%"/>
-</p>
+<br>
 
 <p align="center">
-  <em>💬 "Transforming data into actionable insights through cutting-edge AI technologies"</em>
+  <em>"Transforming data into actionable insights through cutting-edge AI technologies"</em>
 </p>
-
-<p align="center">
-  <a href="mailto:nadaelbendary3@gmail.com">
-    <img src="https://img.shields.io/badge/Let's_Connect-📧-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
 ---
 
 ## 🛠️ Technology Stack

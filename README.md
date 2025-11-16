@@ -17,32 +17,41 @@
 
 ---
 
-### 📫 Reach Out To Me
+## 👨‍💻 About Me
 
-<a href="https://www.linkedin.com/in/nada-mohammed5">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&height=40" alt="LinkedIn"/>
-</a>
-<a href="mailto:nadaelbendary3@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&height=40" alt="Gmail"/>
-</a>
-<a href="https://nada-elbendary.github.io/#projects">
-  <img src="https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=google-chrome&logoColor=white&height=40" alt="Portfolio"/>
-</a>
+<div align="center">
+
 <a href="https://github.com/nada-elbendary">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&height=40" alt="GitHub"/>
+  <img width="150" src="https://github.com/nada-elbendary/nada-elbendary/raw/main/ecpc%202024.jpg" alt="Nada Mohammed Elbendary" style="border-radius: 50%;"/>
 </a>
-<a href="https://www.kaggle.com/nadamohammedahmed">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&height=40" alt="Kaggle"/>
-</a>
-<a href="https://stackoverflow.com/users/31885940/nada-elbendary">
-  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white&height=40" alt="Stack Overflow"/>
-</a>
-<a href="https://medium.com/@nadaelbendary3">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&height=40" alt="Medium"/>
-</a>
-<a href="https://x.com/N4daMohammed">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&height=40" alt="X"/>
-</a>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Nada;Machine+Learning+Engineer+🤖;Building+Intelligent+Systems+🚀" alt="Typing SVG" />
+</h1>
+
+</div>
+
+<br>
+
+🎓 **Studying at** Faculty of Artificial Intelligence at South Valley University
+
+👩‍💻 **Third-Year AI Student** | Aspiring Machine Learning Engineer
+
+💡 **Focused on building** cutting-edge ML models and AI-powered applications, with deep interest in integrating **NLP** and **Computer Vision** solutions
+
+🧠 **Strong foundational skills in** Machine Learning Algorithms, Deep Learning, and Natural Language Processing. I maintain my skills as a **competitive learner** through continuous hands-on projects
+
+🏆 **Active involvement in** AI competitions, research projects, and open-source contributions including **Kaggle** competitions and **GitHub** collaborations
+
+🤖 **Practical experience in** building end-to-end ML pipelines from data preprocessing to model deployment using **Flask**, **Docker**, and **Cloud** platforms
+
+♟️ **Passionate about** continuous learning and solving real-world problems through **AI Innovation** & **Data-Driven Solutions**
+
+<br>
+
+<p align="center">
+  <strong>🎯 Current Focus:</strong> Deep Learning • LLMs • Computer Vision • MLOps
+</p>
 ---
 
 ## 🛠️ Technology Stack

@@ -28,7 +28,7 @@
 ### 👋 Hi there! I'm **Nada Mohammed Elbendary**
 
 <p align="center">
-  <strong>🎓 Third-Year AI Student @ [University Name] | 🚀 Machine Learning Engineer</strong>
+  <strong>🎓 Third-Year AI Student @ SVNU | 🚀 Machine Learning Engineer</strong>
 </p>
 
 <table align="center">

@@ -33,25 +33,34 @@
 
 <br>
 
-🎓 **Studying at** Faculty of Artificial Intelligence at South Valley University
+> 🎓 **Studying at** `Faculty of Artificial Intelligence` at **South Valley University**
 
-👩‍💻 **Third-Year AI Student** | Aspiring Machine Learning Engineer
+> 👩‍💻 **Third-Year AI Student** | Aspiring `Machine Learning Engineer`
 
-💡 **Focused on building** cutting-edge ML models and AI-powered applications, with deep interest in integrating **NLP** and **Computer Vision** solutions
+> 💡 **Focused on building** cutting-edge ML models and AI-powered applications, with deep interest in integrating **`NLP`** and **`Computer Vision`** solutions
 
-🧠 **Strong foundational skills in** Machine Learning Algorithms, Deep Learning, and Natural Language Processing. I maintain my skills as a **competitive learner** through continuous hands-on projects
+> 🧠 **Strong foundational skills in** `Machine Learning Algorithms`, `Deep Learning`, and `Natural Language Processing`. I maintain my skills as a **competitive learner** through continuous hands-on projects
 
-🏆 **Active involvement in** AI competitions, research projects, and open-source contributions including **Kaggle** competitions and **GitHub** collaborations
+> 🏆 **Active involvement in** AI competitions, research projects, and open-source contributions including **`Kaggle`** competitions and **`GitHub`** collaborations
 
-🤖 **Practical experience in** building end-to-end ML pipelines from data preprocessing to model deployment using **Flask**, **Docker**, and **Cloud** platforms
+> 🤖 **Practical experience in** building end-to-end ML pipelines from data preprocessing to model deployment using **`Flask`**, **`Docker`**, and **`Cloud`** platforms
 
-♟️ **Passionate about** continuous learning and solving real-world problems through **AI Innovation** & **Data-Driven Solutions**
+> ♟️ **Passionate about** continuous learning and solving real-world problems through **`AI Innovation`** & **`Data-Driven Solutions`**
 
 <br>
 
-<p align="center">
-  <strong>🎯 Current Focus:</strong> Deep Learning • LLMs • Computer Vision • MLOps
+<div align="center">
+```diff
++ 🎯 Current Focus: Deep Learning • Large Language Models • Computer Vision • MLOps
+```
+
+<p>
+  <img src="https://img.shields.io/badge/Specialization-Machine_Learning-9370DB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-NLP_&_Computer_Vision-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-success?style=flat-square&logo=handshake&logoColor=white"/>
 </p>
+
+</div>
 ---
 
 ## 🛠️ Technology Stack
